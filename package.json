@@ -1,0 +1,16 @@
+{
+  "name": "tb-ws",
+  "version": "1.0.0",
+  "description": "websocket for textbored",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["websocket", "node", "render"],
+  "author": "fox198nt",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
